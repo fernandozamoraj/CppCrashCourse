@@ -1,5 +1,5 @@
 # CppCrashCourse
-A C++ Crashcourse - Contains examples to get up and running with C++fast specially if you are coming from a C# or Java background
+### A C++ Crashcourse - Contains examples to get up and running with C++fast specially if you are coming from a C# or Java background
 
 1. C++ has namespaces and they should be used.  The entire standard library is in the standard namespace std.
 	1. Which is shared across many different libraries.  It's almost like an oxymoron because it's one namespace but many different libraries.
