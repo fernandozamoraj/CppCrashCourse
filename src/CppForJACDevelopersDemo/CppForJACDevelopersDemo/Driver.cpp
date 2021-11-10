@@ -7,6 +7,7 @@
 #include "DescendantExample.h"
 #include "TemplateExample.h"
 #include "FileIOExample.h"
+#include "TemplateExample2.h"
 
 using namespace std;
 using namespace fzj;
@@ -27,6 +28,7 @@ int main() {
 	doArrays();
 	useCollections();
 	doPointers();
+	runTemplate2Example();
 
 	//class and inheritance example
 	DescendantExample descendant;
